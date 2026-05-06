@@ -10,7 +10,7 @@ import "./App.css";
 
 /** Inner shell — uses useLocation, must live inside BrowserRouter */
 function AppShell() {
-  const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [sidebarOpen, setSidebarOpen] = useState(true);
   const location = useLocation();
 
   // Hide sidebar when watching a video

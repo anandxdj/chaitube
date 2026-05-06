@@ -74,12 +74,7 @@ export default function PlaylistDetailPage() {
 
   return (
     <main id="playlist-detail-page" className="mx-auto max-w-screen-xl px-4 py-6">
-      {/* Back button */}
-      <Link to="/playlists" id="back-playlists-btn" className="inline-flex mb-6">
-        <Button variant="outline" size="sm" className="gap-1.5">
-          <ArrowLeft className="h-4 w-4" /> All Playlists
-        </Button>
-      </Link>
+
 
       {loading ? (
         <DetailSkeleton />

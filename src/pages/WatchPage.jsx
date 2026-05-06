@@ -67,12 +67,7 @@ export default function WatchPage() {
 
   return (
     <main id="watch-page" className="mx-auto max-w-screen-xl px-4 py-6">
-      {/* Back button */}
-      <Link to="/" id="back-btn" className="inline-flex mb-4">
-        <Button variant="outline" size="sm" className="gap-1.5">
-          <ArrowLeft className="h-4 w-4" /> Back
-        </Button>
-      </Link>
+
 
       <div className="flex flex-col lg:flex-row gap-6">
         {/* Main column */}

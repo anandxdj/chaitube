@@ -169,9 +169,11 @@ export function Sidebar({ open, onClose }) {
       <aside
         id="sidebar"
         className={cn(
-          "fixed top-14 left-0 z-40 h-[calc(100vh-3.5rem)] w-60 overflow-y-auto bg-yellow-50 border-r-2 border-black transition-transform duration-300",
-          open ? "translate-x-0" : "-translate-x-full",
-          "lg:translate-x-0 lg:static lg:h-auto lg:z-auto lg:shrink-0"
+          "fixed top-14 left-0 z-40 h-[calc(100vh-3.5rem)] w-60 overflow-y-auto bg-yellow-50 border-r-2 border-black transition-all duration-300",
+          "lg:static lg:h-auto lg:z-auto lg:shrink-0",
+          open 
+            ? "translate-x-0 w-60 opacity-100" 
+            : "-translate-x-full w-0 lg:w-0 opacity-0 lg:border-r-0 pointer-events-none lg:overflow-hidden"
         )}
       >
         <nav className="py-2 pb-8">
