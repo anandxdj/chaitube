@@ -1,0 +1,85 @@
+{
+  "statusCode": 200,
+  "data": {
+    "page": 1,
+    "limit": 1,
+    "totalPages": 96,
+    "previousPage": false,
+    "nextPage": true,
+    "totalItems": 96,
+    "currentPageItems": 1,
+    "data": [
+      {
+        "kind": "youtube#videoListResponse",
+        "items": {
+          "kind": "youtube#video",
+          "id": "75hqPk6pq5g",
+          "snippet": {
+            "publishedAt": "2023-07-19T13:16:33Z",
+            "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+            "title": "Flutter Windows Installation",
+            "description": "https://hitesh.ai/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/75hqPk6pq5g/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/75hqPk6pq5g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/75hqPk6pq5g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/75hqPk6pq5g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/75hqPk6pq5g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Hitesh Choudhary",
+            "tags": [
+              "Programming",
+              "javascript",
+              "flutter",
+              "flutter windows"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Flutter Windows Installation",
+              "description": "https://hitesh.ai/discord\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any)."
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT19M35S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+          },
+          "statistics": {
+            "viewCount": "2955",
+            "likeCount": "163",
+            "favoriteCount": "0",
+            "commentCount": "51"
+          }
+        }
+      }
+    ]
+  },
+  "message": "Videos fetched successfully",
+  "success": true
+}

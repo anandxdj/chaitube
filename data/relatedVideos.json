@@ -1,0 +1,364 @@
+{
+  "statusCode": 200,
+  "data": {
+    "page": 1,
+    "limit": 5,
+    "totalPages": 32,
+    "previousPage": false,
+    "nextPage": true,
+    "totalItems": 156,
+    "currentPageItems": 5,
+    "data": [
+      {
+        "kind": "youtube#videoListResponse",
+        "items": {
+          "kind": "youtube#video",
+          "id": "zg06ec5arCs",
+          "snippet": {
+            "publishedAt": "2023-07-12T12:20:42Z",
+            "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+            "title": "Learn to build file based routing from scratch like Nextjs",
+            "description": "Here is the link to get code files for this video:\nhttps://hitesh.pieces.cloud/?p=a2ac4ab4b3\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/zg06ec5arCs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/zg06ec5arCs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/zg06ec5arCs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/zg06ec5arCs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/zg06ec5arCs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Hitesh Choudhary",
+            "tags": [
+              "Programming",
+              "javascript",
+              "cloud",
+              "pieces",
+              "nextjs",
+              "file based routing",
+              "learn react"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Learn to build file based routing from scratch like Nextjs",
+              "description": "Here is the link to get code files for this video:\nhttps://hitesh.pieces.cloud/?p=a2ac4ab4b3\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any)."
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT1H17M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+          },
+          "statistics": {
+            "viewCount": "4144",
+            "likeCount": "292",
+            "favoriteCount": "0",
+            "commentCount": "43"
+          }
+        }
+      },
+      {
+        "kind": "youtube#videoListResponse",
+        "items": {
+          "kind": "youtube#video",
+          "id": "P1xDCeg10FY",
+          "snippet": {
+            "publishedAt": "2023-07-09T09:38:56Z",
+            "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+            "title": "Is this the best monitor for coders? | BenQ GW3290QT | Eye-Care Programming Monitor",
+            "description": "https://www.benq.com/en-in/monitor/home/gw3290qt.html?utm_source=youtube.com&utm_medium=social&utm_campaign=lcd-productivity-review-gw3290qt-hitesh-choudhary-youtube-202306&utm_content=review&utm_term=learn-more\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/P1xDCeg10FY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/P1xDCeg10FY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/P1xDCeg10FY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/P1xDCeg10FY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/P1xDCeg10FY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Hitesh Choudhary",
+            "tags": [
+              "Programming",
+              "coding",
+              "monitor for coders",
+              "vertical monitor",
+              "best coding monitor",
+              "true color monitor"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Is this the best monitor for coders? | BenQ GW3290QT | Eye-Care Programming Monitor",
+              "description": "https://www.benq.com/en-in/monitor/home/gw3290qt.html?utm_source=youtube.com&utm_medium=social&utm_campaign=lcd-productivity-review-gw3290qt-hitesh-choudhary-youtube-202306&utm_content=review&utm_term=learn-more\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any)."
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT13M40S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+          },
+          "statistics": {
+            "viewCount": "15300",
+            "likeCount": "680",
+            "favoriteCount": "0",
+            "commentCount": "67"
+          }
+        }
+      },
+      {
+        "kind": "youtube#videoListResponse",
+        "items": {
+          "kind": "youtube#video",
+          "id": "8KgQEk22sYY",
+          "snippet": {
+            "publishedAt": "2023-06-22T18:47:51Z",
+            "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+            "title": "Here is a hack for developers. @getpieces",
+            "description": "",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/8KgQEk22sYY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/8KgQEk22sYY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/8KgQEk22sYY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/8KgQEk22sYY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/8KgQEk22sYY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Hitesh Choudhary",
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Here is a hack for developers. @getpieces",
+              "description": ""
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+          },
+          "statistics": {
+            "viewCount": "19224",
+            "likeCount": "1595",
+            "favoriteCount": "0",
+            "commentCount": "22"
+          }
+        }
+      },
+      {
+        "kind": "youtube#videoListResponse",
+        "items": {
+          "kind": "youtube#video",
+          "id": "mPpHs5C-Qaw",
+          "snippet": {
+            "publishedAt": "2023-06-22T12:45:03Z",
+            "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+            "title": "Future is AI and Low code tools | illa cloud",
+            "description": "Use this link to check out:\nhttps://bit.ly/44d2Jux\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/mPpHs5C-Qaw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/mPpHs5C-Qaw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/mPpHs5C-Qaw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/mPpHs5C-Qaw/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/mPpHs5C-Qaw/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Hitesh Choudhary",
+            "tags": [
+              "Programming",
+              "cloud",
+              "illa cloud",
+              "low code",
+              "artificial intelligence",
+              "appwrite",
+              "api"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Future is AI and Low code tools | illa cloud",
+              "description": "Use this link to check out:\nhttps://bit.ly/44d2Jux\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any)."
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT22M41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+          },
+          "statistics": {
+            "viewCount": "17231",
+            "likeCount": "447",
+            "favoriteCount": "0",
+            "commentCount": "33"
+          }
+        }
+      },
+      {
+        "kind": "youtube#videoListResponse",
+        "items": {
+          "kind": "youtube#video",
+          "id": "RdEmvav6ZpE",
+          "snippet": {
+            "publishedAt": "2023-06-17T17:05:17Z",
+            "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+            "title": "Saturday live with Wess from Appwrite | 20+ years of code",
+            "description": "Welcome to another saturday live for coders. Today I am bringing in Wesley Cope. He is currently at Appwrite, building Next Gen Open Source backend as a service. With so much of experience, post your interesting questions, and I will ask him.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/RdEmvav6ZpE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/RdEmvav6ZpE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/RdEmvav6ZpE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/RdEmvav6ZpE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/RdEmvav6ZpE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Hitesh Choudhary",
+            "tags": [
+              "live",
+              "coding",
+              "appwrite",
+              "technology",
+              "ai"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Saturday live with Wess from Appwrite | 20+ years of code",
+              "description": "Welcome to another saturday live for coders. Today I am bringing in Wesley Cope. He is currently at Appwrite, building Next Gen Open Source backend as a service. With so much of experience, post your interesting questions, and I will ask him."
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "contentDetails": {
+            "duration": "PT1H1S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "contentRating": {},
+            "projection": "rectangular"
+          },
+          "statistics": {
+            "viewCount": "5238",
+            "likeCount": "377",
+            "favoriteCount": "0",
+            "commentCount": "5"
+          }
+        }
+      }
+    ]
+  },
+  "message": "Related videos fetched successfully",
+  "success": true
+}

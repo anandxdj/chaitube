@@ -1,0 +1,116 @@
+{
+  "statusCode": 200,
+  "data": {
+    "channel": {
+      "info": {
+        "title": "Hitesh Choudhary",
+        "description": "Website: https://hiteshchoudhary.com\nHey there everyone, Hitesh here back again with another video!\nThis means I create a lot of videos, every single week. I cover a wide range of subjects like programming, what's latest in tech, new frameworks, open-source products etc. I keep my interest in a wide area of tech like Javascript, Python, PHP, Machine Learning, etc.\n\nFor the Business purpose, Sponsorships and invitation, reach out at team@hiteshchoudhary.com\n\nNOTE: Personal questions and code-related questions are not answered at this email. Post them in the course discussion section or react me out at social platforms.\n\n#iWriteCode\n\nInstagram: https://instagram.com/hiteshchoudharyofficial\nFacebook: www.fb.com/HiteshChoudharyPage",
+        "customUrl": "@hiteshchoudharydotcom",
+        "publishedAt": "2011-10-24T10:25:16Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaTLK52bUQ_YHxgb7RK8GMt_bksIMavy-aEZ9fUOvg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaTLK52bUQ_YHxgb7RK8GMt_bksIMavy-aEZ9fUOvg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AOPolaTLK52bUQ_YHxgb7RK8GMt_bksIMavy-aEZ9fUOvg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Hitesh Choudhary",
+          "description": "Website: https://hiteshchoudhary.com\nHey there everyone, Hitesh here back again with another video!\nThis means I create a lot of videos, every single week. I cover a wide range of subjects like programming, what's latest in tech, new frameworks, open-source products etc. I keep my interest in a wide area of tech like Javascript, Python, PHP, Machine Learning, etc.\n\nFor the Business purpose, Sponsorships and invitation, reach out at team@hiteshchoudhary.com\n\nNOTE: Personal questions and code-related questions are not answered at this email. Post them in the course discussion section or react me out at social platforms.\n\n#iWriteCode\n\nInstagram: https://instagram.com/hiteshchoudharyofficial\nFacebook: www.fb.com/HiteshChoudharyPage"
+        },
+        "country": "IN"
+      },
+      "statistics": {
+        "viewCount": "54384618",
+        "subscriberCount": "801000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1442"
+      }
+    },
+    "video": {
+      "kind": "youtube#videoListResponse",
+      "items": {
+        "kind": "youtube#video",
+        "id": "EQwmQLU1S6I",
+        "snippet": {
+          "publishedAt": "2023-05-23T12:30:05Z",
+          "channelId": "UCXgGY0wkgOzynnHvSEVmE3A",
+          "title": "Let's kill all programming language | playlist intro",
+          "description": "https://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any).",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EQwmQLU1S6I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EQwmQLU1S6I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EQwmQLU1S6I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EQwmQLU1S6I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/EQwmQLU1S6I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Hitesh Choudhary",
+          "tags": [
+            "Programming",
+            "javascript",
+            "python",
+            "rust",
+            "java",
+            "c++",
+            "swift",
+            "typescript"
+          ],
+          "categoryId": "28",
+          "liveBroadcastContent": "none",
+          "localized": {
+            "title": "Let's kill all programming language | playlist intro",
+            "description": "https://hc.lco.dev/jscamp2\nWallpaper: https://imgur.com/a/FYHfk\n\nFacebook: https://www.facebook.com/HiteshChoudharyPage\nInstagram: https://instagram.com/hiteshchoudharyofficial\nhomepage: http://www.hiteshChoudhary.com\n\nDisclaimer:\nIt doesn't feel good to have a disclaimer in every video but this is how the world is right now. \nAll videos are for educational purposes and use them wisely. Any video may have a slight mistake, please take decisions based on your research. This video is not forcing anything on you.\n\nAll Amazon links are affiliate links (If any)."
+          },
+          "defaultAudioLanguage": "en"
+        },
+        "contentDetails": {
+          "duration": "PT5M48S",
+          "dimension": "2d",
+          "definition": "hd",
+          "caption": "false",
+          "licensedContent": true,
+          "contentRating": {},
+          "projection": "rectangular"
+        },
+        "statistics": {
+          "viewCount": "7861",
+          "likeCount": "433",
+          "favoriteCount": "0",
+          "commentCount": "53"
+        }
+      }
+    }
+  },
+  "message": "Video fetched successfully",
+  "success": true
+}
