@@ -9,11 +9,11 @@
 
 | Field | Value |
 |-------|-------|
-| **Name** | g-videos |
+| **Name** | ChaiTube |
 | **Type** | React SPA (Vite 8, React 19) |
 | **Goal** | YouTube clone using `freeapi.app` static data |
 | **Design System** | NeoBrutalism (RetroUI) |
-| **Status** | Phase 2 — Sidebar + Playlists complete |
+| **Status** | Phase 2 — Sidebar + Playlists + CategoryBar complete |
 
 ---
 
@@ -27,6 +27,7 @@ src/
 │   ├── Navbar.jsx            # Sticky top nav with search + hamburger toggle
 │   ├── Sidebar.jsx           # YouTube-style left sidebar + channel subscription card
 │   ├── VideoCard.jsx         # Video thumbnail + meta card
+│   ├── CategoryBar.jsx       # Horizontal scrollable category pill bar
 │   ├── retroui/
 │   │   └── Button.jsx        # RetroUI neobrutalist button
 │   └── ui/

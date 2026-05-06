@@ -1,16 +1,62 @@
-# React + Vite
+# ☕ ChaiTube
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-performance, **NeoBrutalist** YouTube clone built with React 19, Vite, and Tailwind CSS v4.
 
-Currently, two official plugins are available:
+![ChaiTube](https://img.shields.io/badge/Chai-Tube-FF4500?style=for-the-badge&logo=youtube&logoColor=white)
+![NeoBrutalism](https://img.shields.io/badge/Design-NeoBrutalism-yellow?style=for-the-badge)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- **🎯 Rebranding:** Fully rebranded as **ChaiTube** with a custom tea emoji (☕) favicon.
+- **🎨 NeoBrutalist UI:** Bold borders, high contrast, and offset shadows using the **RetroUI** component library.
+- **📱 Responsive Layout:** YouTube-style sticky navbar and toggleable sidebar.
+- **🏷️ Category Bar:** Horizontal scrollable pill navigation with smooth transitions and edge-fade effects.
+- **🎞️ Video Grid:** Clean, YouTube-inspired video cards with channel avatars and view/date metadata.
+- **🎥 Premium Player:** Integrated YouTube video player with motion animations and full-screen support.
+- **📜 Playlists:** Dedicated pages for browsing and viewing channel playlists.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **Core:** [React 19](https://react.dev/), [Vite 8](https://vitejs.dev/)
+- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/), [shadcn/ui](https://ui.shadcn.com/)
+- **Components:** [RetroUI](https://retroui.com/), [Lucide React](https://lucide.dev/)
+- **Data:** [FreeAPI](https://freeapi.app/) (YouTube Public Endpoints)
+- **State/Routing:** React Router DOM v7
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Getting Started
+
+### Prerequisites
+
+- [Bun](https://bun.sh/) (recommended) or Node.js
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repo-url>
+   ```
+
+2. Install dependencies:
+   ```bash
+   bun install
+   ```
+
+3. Start the development server:
+   ```bash
+   bun run dev
+   ```
+
+## 📂 Project Structure
+
+```
+src/
+├── components/       # UI Components (Navbar, Sidebar, VideoCard, CategoryBar)
+├── hooks/            # Custom hooks (useFetch)
+├── lib/              # API wrappers and utilities
+├── pages/            # Page components (Home, Watch, Playlists)
+└── assets/           # Static assets
+```
+
+## 📝 License
+
+MIT
